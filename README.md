@@ -5,18 +5,30 @@
 ---
 
 ## 🔥 What I'm Doing Right Now
-- Completing **Salesforce Trailhead modules** → earning badges and building real skills.
-- Learning **Salesforce Admin**, **Agentforce**, **Lightning**, **Apex basics**, **Flow automation** and **learning how enterprise IT runs**.
-- Currently learning a new programming language **Kotlin**.
-- Building a **mini Salesforce project** to showcase what I've learned — coming soon!
+- 🎓 Completing **Salesforce Trailhead modules** → earning badges and building real-world cloud skills.
+- ⚙️ Interning as a **Cloud Computing Intern (Salesforce)** — learning how enterprise cloud systems operate in a real business environment.
+- 🛠️ Building and testing **automation flows** using Salesforce Flow Builder to streamline business processes.
+- 📚 Studying for **Salesforce Admin certification** to formalize my hands-on experience.
+- 🤖 Exploring **Agentforce & AI tools** within the Salesforce ecosystem.
+- 💻 Currently learning **Kotlin** as my next programming language.
+- 🚀 Building a **mini Salesforce project** to showcase what I've learned — coming soon!
 
 ---
 
+
 ## 📋 Skills
-**Programming:** SQL, C#, Java, PHP, VB.Net  
+
+**Salesforce & Cloud:**
+![Salesforce Admin](https://img.shields.io/badge/Salesforce%20Admin-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Flow Automation](https://img.shields.io/badge/Flow%20Automation-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce%20AI-00A1E0?style=flat&logo=salesforce&logoColor=white)
+
+**Programming:** SQL, C#, Java, PHP, VB.Net, Kotlin (learning)  
 **Systems:** Windows/Linux OS, Networking basics, SAP, Ticketing Systems  
 **Tools:** Microsoft Office 365, Google Workspace, Git (learning!), Visual Studio  
-**Soft Skills:** Problem-solving, SLA management, customer service, documentation  
+**Soft Skills:** Problem-solving, SLA management, customer service, documentation
 
 ---
 
