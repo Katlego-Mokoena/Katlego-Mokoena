@@ -1,21 +1,24 @@
 # Hi there! 👋 I'm Katlego Mokoena
 
-Aspiring Data Analyst | Salesforce Certified Administrator
-ICT Diploma | Data Analysis | SQL | Python | Power BI
+Aspiring Data Analyst | Salesforce Certified Platform Administrator
+ICT Diploma | Excel | SQL | Python | Power BI
 
 ## About Me
 
-I am an aspiring Data Analyst and Salesforce Certified Professional with an ITC Diploma and a Data Analysis Certificate from UCT GetSmarter.
+I am an aspiring Data Analyst and Salesforce Certified Platform Professional with an ICT Diploma and a Data Analysis Certificate from UCT GetSmarter.
 
-I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualisation and dashboards. I am currently building real-world projects to strengthen my skills in SQL, Python, Excel, Power BI and Salesforce.
+I enjoy transforming raw data into actionable insights through data cleaning, analysis, visualisation and interactive dashboards. I am currently building real-world analytics projects using SQL, Python, Excel, Power BI and Salesforce to strengthen my technical and business problem-solving skills.
 
-## Technical Skills
-
-## Data Analytics
+## Skills
+## Programming
 - SQL
 - Python
+
+## Python Libraries
 - Pandas
-- Numpy
+- NumPy
+
+## Data Analytics
 - Excel
 - Power BI
 - Data Cleaning
@@ -32,7 +35,7 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
  
 ## Tools
 - Git
-- Github
+- GitHub
 - VS Code
 - Jupyter Notebook
 
@@ -47,7 +50,7 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 - Creating Power BI dashboards
 - Solving business problems with SQL and Python
 - Preparing for my first Data Analyst role
-- 🚀 Building a **Loan Management System** to showcase what I've learned
+- 🚀 Developing a Loan Management System using Salesforce to demonstrate automation, data management and business process design.
 
 ## Upcoming Projects
 
@@ -56,14 +59,6 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 - HR Attrition Analysis
 - Customer Churn Analysis
 - Superstore SQL Analysis
-
-**Salesforce & Cloud:**
-![Salesforce Admin](https://img.shields.io/badge/Salesforce%20Admin-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Flow Automation](https://img.shields.io/badge/Flow%20Automation-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Agentforce](https://img.shields.io/badge/Agentforce%20AI-00A1E0?style=flat&logo=salesforce&logoColor=white)
-
 ---
 
 ## 🏆 Salesforce Trailhead
@@ -74,7 +69,7 @@ I enjoy transforming raw data into meaningful insights through data cleaning, an
 
 ---
 
-## 🤝 Let's Connect!
-- 📧 katlegoamk@gmail.com  
+## 🤝 Let's Connect! 
 - 💼 [LinkedIn](https://www.linkedin.com/in/katlego-mokoena-4a3ba7353)  
 - 🏆 [Trailblazer Profile](https://www.salesforce.com/trailblazer/e1j1rzpovxbas9ydrq)
+- 📧 katlegoamk@gmail.com 
