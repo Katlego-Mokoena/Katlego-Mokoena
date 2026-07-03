@@ -1,10 +1,13 @@
 # Hi there! 👋 I'm Katlego Mokoena
 
+Aspiring Data Analyst | Salesforce Certified Administrator
+ICT Diploma | Data Analysis | SQL | Python | Power BI
+
 ## About Me
 
 I am an aspiring Data Analyst and Salesforce Certified Professional with an ITC Diploma and a Data Analysis Certificate from UCT GetSmarter.
 
-I enjoy transforming raw data into meaningful insights throgh data cleaning, analysis, visualisation and dashboards. I am currently building real-world projects to strengthen my skills in SQL, Python, Excel, Power BI and Salesforce.
+I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualisation and dashboards. I am currently building real-world projects to strengthen my skills in SQL, Python, Excel, Power BI and Salesforce.
 
 ## Technical Skills
 
@@ -53,8 +56,6 @@ I enjoy transforming raw data into meaningful insights throgh data cleaning, ana
 - HR Attrition Analysis
 - Customer Churn Analysis
 - Superstore SQL Analysis
-
-## 📋 Skills
 
 **Salesforce & Cloud:**
 ![Salesforce Admin](https://img.shields.io/badge/Salesforce%20Admin-00A1E0?style=flat&logo=salesforce&logoColor=white)
