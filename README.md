@@ -1,20 +1,58 @@
-# Hi there! 👋 I'm Katlego
+# Hi there! 👋 I'm Katlego Mokoena
 
-**Salesforce Intern @ Quarphix | Aspiring Full Stack Developer | Problem Solver | Coffee-Fueled Human**
+## About Me
 
----
+I am an aspiring Data Analyst and Salesforce Certified Professional with an ITC Diploma and a Data Analysis Certificate from UCT GetSmarter.
 
-## 🔥 What I'm Doing Right Now
-- 🎓 Completing **Salesforce Trailhead modules** → earning badges and building real-world cloud skills.
-- ⚙️ Interning as a **Cloud Computing Intern (Salesforce)** — learning how enterprise cloud systems operate in a real business environment.
-- 🛠️ Building and testing **automation flows** using Salesforce Flow Builder to streamline business processes.
-- 📚 Studying for **Salesforce Admin certification** to formalize my hands-on experience.
-- 🤖 Exploring **Agentforce & AI tools** within the Salesforce ecosystem.
-- 💻 Currently learning **Kotlin** as my next programming language.
-- 🚀 Building a **mini Salesforce project** to showcase what I've learned — coming soon!
+I enjoy transforming raw data into meaningful insights throgh data cleaning, analysis, visualisation and dashboards. I am currently building real-world projects to strengthen my skills in SQL, Python, Excel, Power BI and Salesforce.
 
----
+## Technical Skills
 
+## Data Analytics
+- SQL
+- Python
+- Pandas
+- Numpy
+- Excel
+- Power BI
+- Data Cleaning
+- Data Visualisation
+- Exploratory Data Analysis (EDA)
+
+## Salesforce
+- Salesforce Platform Administration
+- Reports & Dashboards
+- User Management
+- Data Management
+- Flow Automation
+- Security & Sharing
+ 
+## Tools
+- Git
+- Github
+- VS Code
+- Jupyter Notebook
+
+## Certifications
+🏆 Salesforce Certified Platform Administrator
+📊 UCT GetSmarter - Data Analysis
+🎓 ICT Diploma
+
+## Current Focus
+
+- Building an end-to-end Data Analytics portfolio
+- Creating Power BI dashboards
+- Solving business problems with SQL and Python
+- Preparing for my first Data Analyst role
+- 🚀 Building a **Loan Management System** to showcase what I've learned
+
+## Upcoming Projects
+
+- Netflix Data Analysis
+- Sales Dashboard
+- HR Attrition Analysis
+- Customer Churn Analysis
+- Superstore SQL Analysis
 
 ## 📋 Skills
 
@@ -24,11 +62,6 @@
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Agentforce](https://img.shields.io/badge/Agentforce%20AI-00A1E0?style=flat&logo=salesforce&logoColor=white)
-
-**Programming:** SQL, C#, Java, PHP, VB.Net, Kotlin (learning)  
-**Systems:** Windows/Linux OS, Networking basics, SAP, Ticketing Systems  
-**Tools:** Microsoft Office 365, Google Workspace, Git (learning!), Visual Studio  
-**Soft Skills:** Problem-solving, SLA management, customer service, documentation
 
 ---
 
