@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Katlego Mokoena
 
-Aspiring Data Analyst | Salesforce Certified Platform Administrator
+Certified Data Analyst | Salesforce Certified Platform Administrator |
 ICT Diploma | Excel | SQL | Python | Power BI
 
 ## About Me
